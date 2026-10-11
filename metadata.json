@@ -1,0 +1,6 @@
+{
+  "name": "Churrasco Calculado",
+  "description": "Calculadora completa e 100% offline de carnes, bebidas, acompanhamentos, carvão e divisão de custos de churrasco.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
